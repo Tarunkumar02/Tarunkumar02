@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Tarun Kumar  
 
-<!--
-**Tarunkumar02/Tarunkumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech. student in Electronics & Communication Engineering at **IIT (ISM) Dhanbad**  
+💻 Aspiring Software Engineer | Interest towards Data Analytics | Passionate about building impactful products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m working on  
+- Building projects that solve real-world problems (recent: **RoadRadar**, **VoiceAssistAI**)  
+- Practicing **DSA** on LeetCode & Codeforces to strengthen problem-solving skills  
+- Exploring **Open Source** contributions to grow as a developer  
+
+---
+
+### 🌱 Currently learning  
+- **DSA** (to sharpen my core CS skills)  
+- **Frontend & Backend concepts** for scalable applications
+- **Data Analytics** for analytics and Decision Making
+
+---
+
+### 👯 Looking to collaborate on  
+- Cool ideas that make people’s everyday lives easier through software
+- Analytics Skill and Product managing skill seeker 
+
+---
+
+### 📫 How to reach me  
+- [LinkedIn](https://www.linkedin.com/in/kante-tarun-kumar-145abb289/)  
+- [GitHub](https://github.com/Tarunkumar02)  
+- [Email](mailto:tarunkumarkante@gmail.com)  
+
+---
+
+### ⚡ Fun fact  
+Movie lover, Gym obsessed, and a stubborn CP underdog — CF ~1000 and climbing. 
+
+---
