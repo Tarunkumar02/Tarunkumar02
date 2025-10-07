@@ -13,9 +13,9 @@
 ---
 
 ### 🌱 Currently learning  
+- **Data Analytics** for analytics and Product Management (Decision Making)
 - **DSA** (to sharpen my core CS skills)  
 - **Frontend & Backend concepts** for scalable applications
-- **Data Analytics** for analytics and Decision Making
 
 ---
 
